@@ -1,0 +1,2 @@
+web: gunicorn student_management_system.wsgi
+##COPYWRIGHT OF QAMAR MUNEER AKBAR & CS50 HARVARD 2022-CURRENT ALL WRIGHTS RESERVED##
